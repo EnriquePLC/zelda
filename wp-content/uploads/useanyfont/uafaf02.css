@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'windows';
+					src: url('7455windows.woff2') format('woff2'),
+						url('7455windows.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.windows{font-family: 'windows' !important;}
+
+		
